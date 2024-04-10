@@ -11,12 +11,11 @@ Welcome to my GitHub profile, I'm a student at the University of Edinburgh doing
 
 ## Extracurricular Activities
 
-**Sports**:
 President and Founder of Informatics Rugby Club
 Social and Sponsorship Secretary of Edinburgh University Trampoline Club
 Member of Informatics Football, Engineers Rugby, and Edinburgh University Boxing Club
 
-### Connect With Me
+## Connect With Me
 - **LinkedIn:** (https://www.linkedin.com/in/chris-crampton-2634a0261/)
 - **Email:** cramptc@hotmail.com
 

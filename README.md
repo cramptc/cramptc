@@ -9,11 +9,6 @@ Welcome to my GitHub profile, I'm a student at the University of Edinburgh doing
 **Dissertation**: Quantum computing for use in molecular ground state estimation
 **Other**: Philosophy of Science
 
-## Extracurricular Activities
-
-President and Founder of Informatics Rugby Club
-Social and Sponsorship Secretary of Edinburgh University Trampoline Club
-Member of Informatics Football, Engineers Rugby, and Edinburgh University Boxing Club
 
 ## Connect With Me
 - **LinkedIn:** (https://www.linkedin.com/in/chris-crampton-2634a0261/)
@@ -25,9 +20,9 @@ Member of Informatics Football, Engineers Rugby, and Edinburgh University Boxing
 - **Data Analysis & Machine Learning:** Skilled with Tensorflow, Pandas, NumPy, SciPy
 - **Leadership & Collaboration:** Proven track record of leading project teams to success and fostering collaborative environments.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=graywhite)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cramptc&show_icons=true&theme=graywhite)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=graywhite)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cramptc&layout=compact&theme=graywhite)
 
 ## Highlighted Projects
 

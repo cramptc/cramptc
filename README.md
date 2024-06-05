@@ -24,13 +24,6 @@ Welcome to my GitHub profile, I'm a student at the University of Edinburgh doing
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cramptc&layout=compact&theme=graywhite)
 
-## Highlighted Projects
-
-<!-- Adjust the theme to match your profile's aesthetic -->
-
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=yourgithubusername&repo=project1&theme=vue-dark)](https://github.com/yourgithubusername/project1)
-
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=yourgithubusername&repo=project2&theme=vue-dark)](https://github.com/yourgithubusername/project2)
 
 
 
